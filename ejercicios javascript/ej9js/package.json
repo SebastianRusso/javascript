@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "winston": "^3.8.2"
+  },
+  "name": "ej-9-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "start index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
